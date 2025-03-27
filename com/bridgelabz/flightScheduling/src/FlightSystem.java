@@ -31,3 +31,43 @@ public class FlightSystem {
 
     }
 }
+//Flights ------
+//Departure : 10:00
+//Flight Number : 101
+//Destination : Delhi
+//
+//Departure : 11:00
+//Flight Number : 102
+//Destination : Kolkata
+//
+//Bookings -----
+//Booking ID : 92
+//Passenger Name : Siddharth
+//Flight Number : 1001
+//Source : Delhi
+//Destination : Hyderabad
+//
+//Booking ID : 76
+//Passenger Name : Ishaan
+//Flight Number : 1001
+//Source : Delhi
+//Destination : Hyderabad
+//
+//Booking ID : 41
+//Passenger Name : Sanjeev
+//Flight Number : 1002
+//Source : Delhi
+//Destination : Chandigarh
+//
+//Bookings after cancellation -----
+//Booking ID : 92
+//Passenger Name : Siddharth
+//Flight Number : 1001
+//Source : Delhi
+//Destination : Hyderabad
+//
+//Booking ID : 76
+//Passenger Name : Ishaan
+//Flight Number : 1001
+//Source : Delhi
+//Destination : Hyderabad
